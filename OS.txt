@@ -1,0 +1,13 @@
+Operating Systems
+
+An operating system manages computer hardware and software resources.
+
+A process is a program in execution.
+
+A thread is a unit of execution within a process.
+
+CPU scheduling determines which process gets CPU time.
+
+Deadlock occurs when processes wait indefinitely for resources.
+
+Common scheduling algorithms include FCFS, SJF and Round Robin.

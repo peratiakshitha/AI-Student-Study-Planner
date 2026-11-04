@@ -1,0 +1,13 @@
+Computer Networks
+
+A computer network connects multiple devices for communication.
+
+TCP is a reliable, connection-oriented transport protocol.
+
+UDP is a connectionless transport protocol.
+
+IP addresses identify devices on a network.
+
+DNS converts domain names into IP addresses.
+
+HTTP and HTTPS are application layer protocols.

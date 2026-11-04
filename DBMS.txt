@@ -1,0 +1,13 @@
+Database Management Systems
+
+DBMS is software used to store, manage and retrieve data.
+
+A primary key uniquely identifies each record in a table.
+
+A foreign key connects two related tables.
+
+Normalization reduces data redundancy.
+
+SQL stands for Structured Query Language.
+
+ACID properties are Atomicity, Consistency, Isolation and Durability.

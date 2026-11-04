@@ -1,0 +1,15 @@
+Design and Analysis of Algorithms
+
+An algorithm is a finite sequence of steps used to solve a problem.
+
+Time Complexity measures the time required by an algorithm
+as a function of input size.
+
+Big O notation describes the upper bound of an algorithm.
+
+Common complexities include:
+O(1), O(log n), O(n), O(n log n), O(n^2).
+
+Binary Search works on sorted arrays and has O(log n) time complexity.
+
+Merge Sort uses divide and conquer and has O(n log n) time complexity.
